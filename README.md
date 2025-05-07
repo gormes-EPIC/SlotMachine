@@ -1,5 +1,11 @@
 # Lab 12: Slot Machine
 
+
+
+https://github.com/user-attachments/assets/1eafe7a2-55d5-4bb3-be6e-dd218d0be836
+
+
+
 ## Objective
 
 1. Create a button activated "slot machine" using Python. 
