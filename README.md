@@ -52,7 +52,7 @@ https://github.com/user-attachments/assets/1eafe7a2-55d5-4bb3-be6e-dd218d0be836
 
 ## Part 3: Rig The Game
 
-1. Using a mechanisms of your choice, create a game mode where the results are rigged in favor of winning. This could be triggered by a second button, a double click, a key on the keyboard, it's up to you! The only requirement is that there is an above average chance of winning. 
+1. Using a mechanism of your choice, create a game mode where the results are rigged in favor of winning. This could be triggered by a second button, a double click, a key on the keyboard, it's up to you! The only requirement is that there is an above average chance of winning. 
 
 - [ ] Upload your program and a video to GitHub
 
