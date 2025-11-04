@@ -1,4 +1,4 @@
-# Lab 12: Slot Machine
+# Slot Machine
 
 
 
@@ -28,8 +28,10 @@ https://github.com/user-attachments/assets/1eafe7a2-55d5-4bb3-be6e-dd218d0be836
 ## Part 2: 7 Segment Display
 
 1.  Get a 7-segment display from the class supplies. *The back of these displays can get hot. If it is too hot to handle, then recycle it and get a new display. It may have faulty internal wiring. Be careful when handling.*
-2. Install the necessary library with `pip3 install raspberrypi-tm1637`. See [this](https://pypi.org/project/raspberrypi-tm1637/) for library reference. If pip isn't installed, use `sudo apt install pip`. 
-![[7SegmentWiring.png]]
+2. Install the necessary library with `pip3 install raspberrypi-tm1637`. See [this](https://pypi.org/project/raspberrypi-tm1637/) for library reference. If pip isn't installed, use `sudo apt install pip`.
+
+<img width="900" height="278" alt="led-display-wiring" src="https://github.com/user-attachments/assets/e2c55d40-84f6-4a26-82c9-986eaf2d3cbb" />
+
 3. Use this [site](https://thingsdaq.org/2022/10/02/7-segment-led-display-with-raspberry-pi/) as a reference to wire your display and for the code. **WARNING: Please wire your display CAREFULLY. If you switch your voltage and ground pins when setting up your display, it will get extremely hot very quickly and begin to burn.**
 4. Create a program with the following game loop: When the button is pressed, your program will select 4 random numbers and display them on the screen. If all 4 numbers match, the light will flash for 10 seconds.
 5. Take a quick video of your program and upload it to GitHub
