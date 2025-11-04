@@ -36,6 +36,8 @@ https://github.com/user-attachments/assets/1eafe7a2-55d5-4bb3-be6e-dd218d0be836
 
 - [ ] Upload a video of your working program to GitHub
 
+ ![image009-1](https://github.com/user-attachments/assets/c5a60d73-8f4a-4230-b61e-b867d6e72848)
+ 
 ## Part 2: Hardcore - LCD Display 
 
 1. Instead of a 7 segment display, use a 16x2 I2C LCD screen. There are many different libraries you can use for this. I have used [rpi-lcd](https://github.com/bogdal/rpi-lcd) in the past, but you can use whatever works for you. Remember to enable I2C in the raspi-config menu before starting or your program will not run regardless.
@@ -45,7 +47,6 @@ https://github.com/user-attachments/assets/1eafe7a2-55d5-4bb3-be6e-dd218d0be836
 - [ ] Upload a video of your working program to GitHub
 
 
- ![image009-1](https://github.com/user-attachments/assets/c5a60d73-8f4a-4230-b61e-b867d6e72848)
 
 ## Part 3: Rig The Game
 
